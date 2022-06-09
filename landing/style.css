@@ -1,0 +1,49 @@
+.seccion1{
+    background-image: url("background.png");
+    background-color: #cccccc;
+    height: 650px;
+    background-size: cover;
+    background-position: bottom;
+    padding: 30px 0 0 40px;
+}
+
+.purple-font{
+    color: #4A25AA;
+    font-family: Moderat,sans-serif;
+}
+
+.white-font{
+    color: #ffffff;
+    font-family: Moderat,sans-serif;
+}
+
+h1{
+    color: #4A25AA;
+    line-height: 130%;
+    font-family: Moderat,sans-serif;
+    font-size: 48px;
+}
+
+.copy-hero{
+    font-size: 24px;
+}
+
+.btn-hero{
+    width: 166px;
+    height: 52px;
+    background-color: #4A25AA;
+    padding: 16px 32px;
+    border-radius: 40px;
+    border: solid 1px  #4A25AA;
+}
+
+footer a, span{
+    color: #4A25AA;
+    text-decoration: none;
+}
+
+footer{
+    display: flex;
+    padding: 30px;
+}
+

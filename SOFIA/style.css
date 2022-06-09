@@ -1,0 +1,56 @@
+.container1{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.square{
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.título-section{
+    margin-bottom: 60px;
+    color: #323c61;
+    position: relative;
+    top: 10px;
+    left: 200px;
+
+}
+.main{
+    width: 420px;
+    margin: -80px auto 0 auto;
+}
+.pink{
+
+}
+.orange{
+
+}
+.p1{
+ 
+}
+.bloque{
+    background-color: white;
+    min-height: 100px;
+    padding: 60px;
+    position: relative;
+    border-radius:6px;
+}
+.p2{
+
+}
+.h3{
+
+}
+.p{
+
+}
+.button{
+
+}
+.a{
+    background-color: white;
+    color: #3483FA;
+}

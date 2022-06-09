@@ -1,0 +1,94 @@
+*{
+ margin: 0px;
+ border: 0px;
+ padding: 0px;
+ @import url(//db.onlinewebfonts.com/c/0c3856a335fdfdb8b0652f7c3d367fdd?family=Moderat);
+ box-sizing: border-box;
+
+
+
+}
+
+@import url(//db.onlinewebfonts.com/c/0c3856a335fdfdb8b0652f7c3d367fdd?family=Moderat);
+
+nav{
+ background-color: hsla(0,0%,100%,.7);  
+ width: 100vw;
+}
+
+header{    
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 4px;
+    padding-bottom: 16px;
+}
+
+
+
+header .header-nav .header-nav-menu .sofialogo{
+    height: 60px;
+    display: flex;
+}
+
+
+.menu-item-wrapper a {
+    list-style: none;
+    color:#4F5877 ;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.menu-item-wrapper  {
+    width: fit-content;
+}
+
+.header-nav-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+    width: 70vw;
+}
+
+@media only screen and (min-width: 991px){
+.header-nav-menu li {
+    display: block;
+    width: fit-content;
+    height: 150%;
+    font-weight: 600;
+    font-family: Arial;
+    font-size: 17px;
+    color:   #323c61;
+
+}
+}
+.header-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 99vw;
+}
+
+.fondosofia {
+    width: 100vw;
+}
+
+@media only screen and (max-width: 991px){
+ .menu-item-wrapper {
+    display: none;
+    width: fit-content;
+    height: 150%;
+    font-weight: 600;
+    font-family: Arial;
+    font-size: 0px;
+    color:   white;
+
+}
+}

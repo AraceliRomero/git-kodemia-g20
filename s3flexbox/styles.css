@@ -1,0 +1,28 @@
+.flex-wrapper[
+    display: flex;
+    border: 3px solid green;
+]
+body { 
+    margin: 0;
+}
+.container{
+    border: 6px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-item{
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-aling: center;
+}
+.item-1{
+    background-color: aquamarine;
+}
+.item-2{
+    background-color: brown;
+}
+.item-3{
+    background-color: blueviolet;
+}
+}

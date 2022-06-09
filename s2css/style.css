@@ -1,0 +1,10 @@
+*{
+    background-color: aqua;
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
